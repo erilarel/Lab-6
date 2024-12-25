@@ -5,7 +5,6 @@ class Figure:
         self.b = b
         self.c = c
 
-
     def value(self):
         # Метод 1
         Valuee = self.a * self.b * self.c
